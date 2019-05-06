@@ -1,5 +1,5 @@
 {
-  "workorder": [
+  "posts": [
     { "id": 1, "description": "Workorder one", "status": "Ready" },
     { "id": 2, "description": "Workorder Two", "status": "Pass" },
     { "id": 3, "description": "Workorder Three", "status": "Complete" },
