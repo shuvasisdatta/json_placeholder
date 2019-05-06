@@ -9,10 +9,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "workorders": [
-    { "id": 1, "ref": 111, "description": "wo 1", "status": "Ready" },
-    { "id": 2, "ref": 121, "description": "wo 2", "status": "Pass" },
-    { "id": 3, "ref": 131, "description": "wo 3", "status": "Complete" },
-    { "id": 4, "ref": 141, "description": "wo 4", "status": "Ready" }
+    { "Id": 1, "Ref": 111, "description": "wo 1", "status": "Ready" },
+    { "Id": 2, "Ref": 121, "description": "wo 2", "status": "Pass" },
+    { "Id": 3, "Ref": 131, "description": "wo 3", "status": "Complete" },
+    { "Id": 4, "Ref": 141, "description": "wo 4", "status": "Ready" }
   ],
   "profile": {
     "name": "typicode"
