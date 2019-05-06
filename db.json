@@ -7,7 +7,7 @@
     { "id": 1, "description": "wo 1", "status": "Ready" },
     { "id": 2, "description": "wo 2", "status": "Pass" },
     { "id": 3, "description": "wo 3", "status": "Complete" },
-    { "id": 4, "description": "wo 4", "status": "Ready" },
+    { "id": 4, "description": "wo 4", "status": "Ready" }
   ],
   "profile": {
     "name": "typicode"
