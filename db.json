@@ -9,10 +9,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "products": [
-    { "id": 1, "name": "Product A", "description": "wo 1", "image_url": "https://bit.ly/2Kc3u12", "status": "Ready" },
-    { "id": 2, "name": "Product B", "description": "wo 2", "image_url": "https://bit.ly/2Kc3u12", "status": "Pass" },
-    { "id": 3, "name": "Product C", "description": "wo 3", "image_url": "https://bit.ly/2WcuwfU", "status": "Complete" },
-    { "id": 4, "name": "Product D", "description": "wo 4", "image_url": "https://bit.ly/2Kc3u12", "status": "Ready" }
+    { "id": 1, "name": "Product A", "description": "wo 1", "image_url": "https://bit.ly/2Kc3u12", "price": 2300, "status": "Ready" },
+    { "id": 2, "name": "Product B", "description": "wo 2", "image_url": "https://bit.ly/2Kc3u12", "price": 1300, "status": "Pass" },
+    { "id": 3, "name": "Product C", "description": "wo 3", "image_url": "https://bit.ly/2WcuwfU", "price": 250, "status": "Complete" },
+    { "id": 4, "name": "Product D", "description": "wo 4", "image_url": "https://bit.ly/2Kc3u12", "price": 2900, "status": "Ready" }
   ],
   "profile": {
     "name": "typicode"
