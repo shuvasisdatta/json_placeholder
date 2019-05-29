@@ -8,11 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "workorders": [
-    { "id": 1, "ref": 111, "description": "wo 1", "status": "Ready" },
-    { "id": 2, "ref": 121, "description": "wo 2", "status": "Pass" },
-    { "id": 3, "ref": 131, "description": "wo 3", "status": "Complete" },
-    { "id": 4, "ref": 141, "description": "wo 4", "status": "Ready" }
+  "products": [
+    { "id": 1, "name": "Product A", "description": "wo 1", "status": "Ready" },
+    { "id": 2, "name": "Product B", "description": "wo 2", "status": "Pass" },
+    { "id": 3, "name": "Product C", "description": "wo 3", "status": "Complete" },
+    { "id": 4, "name": "Product D", "description": "wo 4", "status": "Ready" }
   ],
   "profile": {
     "name": "typicode"
